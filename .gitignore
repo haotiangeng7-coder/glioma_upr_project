@@ -1,0 +1,46 @@
+# Data directories
+data/
+results/
+outputs/
+
+# Data files
+*.rds
+*.RData
+*.RDS
+*.csv
+*.tsv
+*.xlsx
+
+# Figures and images
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
+
+# Backup files
+*.bak*
+*.backup
+
+# Logs
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Submission / manuscript files (not code)
+manuscript/
+submission/
+*.docx
+*.pdf
